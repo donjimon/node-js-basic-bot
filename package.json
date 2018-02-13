@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "spotify-web-api-js": "^0.23.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  },
+  "version": ""
+}
